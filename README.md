@@ -1,1 +1,2 @@
-# semantic_image_inpainting_pytorch
+# Semantic_Image_Inpainting
+Implement sematic image inpainting using Pytorch
